@@ -80,82 +80,82 @@ Unofficial successor "Unvanquished": https://unvanquished.net
 Some assets may be derivative works or subject to different licenses. Please refer for author and license details. Note that some files may have been modified. Below is a list of files and their legal statuses.
 
 ***
-env\atcs_update\mars_bk.jpg <sup>[4](#Credit-4)</sup> 
-env\atcs_update\mars_dn.jpg <sup>[4](#Credit-4)</sup> 
-env\atcs_update\mars_ft.jpg <sup>[4](#Credit-4)</sup> 
-env\atcs_update\mars_lf.jpg <sup>[4](#Credit-1)</sup> 
-env\atcs_update\mars_rt.jpg <sup>[4](#Credit-4)</sup> 
-env\atcs_update\mars_up.jpg <sup>[4](#Credit-4)</sup> 
-levelshots\atcs_update.jpg <sup>[1](#Credit-1)</sup> 
-maps\atcs_update.map <sup>[1, 2](#Credit-1)</sup> 
-scripts\atcs_update.arena <sup>[1](#Credit-1)</sup> 
-scripts\atcs_update.particle <sup>[1](#Credit-1)</sup> 
-scripts\atcs_update.shader <sup>[1](#Credit-1)</sup> 
-scripts\shaderlist.txt <sup>[1](#Credit-1)</sup> 
-sounds\atcs_update\firework.wav <sup>[2](#Credit-2)</sup> 
-textures\atcs_update\bulb_red.jpg <sup>[2](#Credit-2)</sup> 
-textures\atcs_update\cubelight_32_blue.blend.jpg <sup>[2](#Credit-2)</sup> 
-textures\atcs_update\cubelight_32_blue.jpg <sup>[2](#Credit-2)</sup> 
-textures\atcs_update\cubelight_32_red.blend.jpg <sup>[2](#Credit-2)</sup> 
-textures\atcs_update\cubelight_32_red.jpg <sup>[2](#Credit-2)</sup> 
-textures\atcs_update\cubelight_32_white.blend.jpg <sup>[2](#Credit-2)</sup> 
-textures\atcs_update\cubelight_32_white.jpg <sup>[](#Credit-1)</sup> 
-textures\atcs_update\eq2_baselt03_blue.blend.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_baselt03_blue.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_baselt03b.blend.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_baselt03b.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_baselt03b_blue.blend.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_baselt03b_blue.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_bigmet_01.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_bmtl.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_bmtl_01.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_bmtl_02.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_bmtl_02_384.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_bmtl_02_384b.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_bmtl_02up.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_bmtl_03.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_bmtl_03_blue.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_bmtl_03_light.blend.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_bmtl_03_light.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_bmtl_03_red.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_bmtl_04.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_bmtl_05.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_bmtl_08.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_bounce.tga <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_bouncefan.tga <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_fbase.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_fgrate_01.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_floor_04.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_floor_05.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_floor_06b.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_grate_01.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_stepside_01.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_trim_02.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_trimh_01.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_trimh_03c.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_trimh_03cc.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_trimv_00.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_trimv_01b.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_trimv_02.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_trimv_04.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_trimv_05.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_trimv_05b.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_trimv_09b.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_trimv_10b.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_trimv_11.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_trimv_11d.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_trimv_11d_blue.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_trimv_11d_red.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_trimv_12b.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_trimv_mini.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_trimv_mini02.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\eq2_trimv_mini02b.jpg <sup>[3](#Credit-3)</sup> 
-textures\atcs_update\force_field.jpg <sup>[2](#Credit-2)</sup> 
-textures\atcs_update\force_grid.jpg <sup>[2](#Credit-2)</sup> 
-textures\atcs_update\rockground.jpg <sup>[2](#Credit-2)</sup> 
-textures\atcs_update\rust_2.jpg <sup>[2](#Credit-2)</sup> 
-textures\atcs_update\sparkle_blue.jpg <sup>[2](#Credit-2)</sup> 
-textures\atcs_update\sparkle_red.jpg <sup>[2](#Credit-2)</sup> 
+env\atcs_update\mars_bk.jpg <sup>[4](#Credit-4)</sup> \
+env\atcs_update\mars_dn.jpg <sup>[4](#Credit-4)</sup> \
+env\atcs_update\mars_ft.jpg <sup>[4](#Credit-4)</sup> \
+env\atcs_update\mars_lf.jpg <sup>[4](#Credit-1)</sup> \
+env\atcs_update\mars_rt.jpg <sup>[4](#Credit-4)</sup> \
+env\atcs_update\mars_up.jpg <sup>[4](#Credit-4)</sup> \
+levelshots\atcs_update.jpg <sup>[1](#Credit-1)</sup> \
+maps\atcs_update.map <sup>[1, 2](#Credit-1)</sup> \
+scripts\atcs_update.arena <sup>[1](#Credit-1)</sup> \
+scripts\atcs_update.particle <sup>[1](#Credit-1)</sup> \
+scripts\atcs_update.shader <sup>[1](#Credit-1)</sup> \
+scripts\shaderlist.txt <sup>[1](#Credit-1)</sup> \
+sounds\atcs_update\firework.wav <sup>[2](#Credit-2)</sup> \
+textures\atcs_update\bulb_red.jpg <sup>[2](#Credit-2)</sup> \
+textures\atcs_update\cubelight_32_blue.blend.jpg <sup>[2](#Credit-2)</sup> \
+textures\atcs_update\cubelight_32_blue.jpg <sup>[2](#Credit-2)</sup> \
+textures\atcs_update\cubelight_32_red.blend.jpg <sup>[2](#Credit-2)</sup> \
+textures\atcs_update\cubelight_32_red.jpg <sup>[2](#Credit-2)</sup> \
+textures\atcs_update\cubelight_32_white.blend.jpg <sup>[2](#Credit-2)</sup> \
+textures\atcs_update\cubelight_32_white.jpg <sup>[](#Credit-1)</sup> \
+textures\atcs_update\eq2_baselt03_blue.blend.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_baselt03_blue.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_baselt03b.blend.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_baselt03b.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_baselt03b_blue.blend.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_baselt03b_blue.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_bigmet_01.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_bmtl.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_bmtl_01.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_bmtl_02.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_bmtl_02_384.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_bmtl_02_384b.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_bmtl_02up.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_bmtl_03.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_bmtl_03_blue.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_bmtl_03_light.blend.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_bmtl_03_light.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_bmtl_03_red.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_bmtl_04.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_bmtl_05.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_bmtl_08.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_bounce.tga <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_bouncefan.tga <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_fbase.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_fgrate_01.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_floor_04.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_floor_05.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_floor_06b.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_grate_01.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_stepside_01.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_trim_02.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_trimh_01.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_trimh_03c.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_trimh_03cc.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_trimv_00.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_trimv_01b.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_trimv_02.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_trimv_04.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_trimv_05.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_trimv_05b.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_trimv_09b.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_trimv_10b.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_trimv_11.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_trimv_11d.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_trimv_11d_blue.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_trimv_11d_red.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_trimv_12b.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_trimv_mini.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_trimv_mini02.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\eq2_trimv_mini02b.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcs_update\force_field.jpg <sup>[2](#Credit-2)</sup> \
+textures\atcs_update\force_grid.jpg <sup>[2](#Credit-2)</sup> \
+textures\atcs_update\rockground.jpg <sup>[2](#Credit-2)</sup> \
+textures\atcs_update\rust_2.jpg <sup>[2](#Credit-2)</sup> \
+textures\atcs_update\sparkle_blue.jpg <sup>[2](#Credit-2)</sup> \
+textures\atcs_update\sparkle_red.jpg <sup>[2](#Credit-2)</sup> \
 ***
 
 ### Credit-1
