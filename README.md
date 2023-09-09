@@ -155,7 +155,7 @@ textures\atcs_update\force_grid.jpg <sup>[2](#Credit-2)</sup> \
 textures\atcs_update\rockground.jpg <sup>[2](#Credit-2)</sup> \
 textures\atcs_update\rust_2.jpg <sup>[2](#Credit-2)</sup> \
 textures\atcs_update\sparkle_blue.jpg <sup>[2](#Credit-2)</sup> \
-textures\atcs_update\sparkle_red.jpg <sup>[2](#Credit-2)</sup> \
+textures\atcs_update\sparkle_red.jpg <sup>[2](#Credit-2)</sup>
 ***
 
 ### Credit-1
